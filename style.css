@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  color: rgb(92, 67, 201);
+  font-family:cursive;
+  
+}
+h2{
+  text-align: center;
+  color: rgb(187, 111, 84);
+}
+.game-canvas{
+  text-align: center;
+}
+body{
+  background-color: rgb(204, 231, 232);
+  background-image: url(2.jpg);
+  background-size: cover;
+  
+}
